@@ -26,9 +26,25 @@ They can not sign up or change plans directly on our site. However, we link them
 - For certain requests, we broker the call to another backend API that we call the Fulfillment API. It is managed by a different government program.
 - We host a copy of the beneficiary’s current plan, but we are not the source of truth. A cron job updates our database nightly with any delta.
 
+## Architecture Diagram
+
+![System Architecture Diagram](whatever-gov-architecture.png)
+
 ## Problems Enhancements
 
 - We hope to improve overall site performance and responsiveness.
 - We have noticed some significant API slow downs at unpredictable intervals.
 - We have been asked to review and improve our security posture.
 - We would like to ensure high availability to hit the government required 99.99% SLA.
+
+## Database Structure
+
+| Table Name | Columns |
+| ----------- | ----------- |
+| beneficiary | beneficiary_id, fname, lname, sex, ssn, birthdate, address, city, state, zip_code |
+| beneficiary_to_plan | beneficiary_id, plan_id, start_date, end_date |
+| plan | plan_id, plan_name, insurer_name, status, description, avg_monthly_cost, avg_copay_amount, annual_deductible, min_age, max_age |
+| plan_feature | plan_id, feature_key, feature_value |
+| plan_to_zip | plan_id, zip_code |
+| user | username, password, email, beneficiary_id |
+
