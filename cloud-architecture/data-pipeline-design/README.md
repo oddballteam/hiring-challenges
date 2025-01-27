@@ -10,4 +10,15 @@ Whiteboarding tools:
 
 ## Product Details
 
-...
+### Data Sources
+
+- Claims: Nightly pull from an external database
+- Plans: Sporadic push of data, unknown intervals, into a storage bucket
+- Beneficiary: Same type of database, in a different account, with a cross-account data share connection
+
+### Consumers
+
+- Provide an API for other clients to access for their front end applications
+- Tableau for internal report creation against the data
+
+
