@@ -1,5 +1,7 @@
 # Moods and Stresses
 
+![Mood Scale](moods.png)
+
 ## Overview
 
 As a health care provider, we are concerned with the moods and sress levels of our patients. We want to examine our data to determine who is likely not doing well based on our readings.
