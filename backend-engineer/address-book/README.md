@@ -15,7 +15,7 @@ Create endpoints that do each of the following things. You should decide appropr
 
 ## Database
 
-The file [oddballs.db] contains the data. It has a single table called `oddballs` with these columns:
+The file [oddballs.db](oddballs.db) contains the data. It has a single table called `oddballs` with these columns:
 
 - id
 - firstName
