@@ -8,15 +8,15 @@ As a health care provider, we are concerned with the moods and sress levels of o
 
 ### Users
 
-The [users.csv] file contains a list of users with `user_name` and `full_name` fields. 
+The [users.csv](users.csv) file contains a list of users with `user_name` and `full_name` fields. 
 
 ### Moods
 
-In the `moods.csv` file, we have a daily log of each user's mood. The `mood` column evaluates them between 1 (very bad) and 5 (great). If a user's value is missing on a given day, we should default to a 3 (neutral).
+In the [moods.csv](moods.csv) file, we have a daily log of each user's mood. The `mood` column evaluates them between 1 (very bad) and 5 (great). If a user's value is missing on a given day, we should default to a 3 (neutral).
 
 ### Stress
 
-the `stess.csv` file similarly contains a daily log of the person's stress level. A value of 1 indicates low stress, while a value of 5 indicates very stressed.
+the [stess.csv](stress.csv) file similarly contains a daily log of the person's stress level. A value of 1 indicates low stress, while a value of 5 indicates very stressed.
 
 ## Product Requirements
 
