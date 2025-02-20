@@ -64,17 +64,18 @@ Please review the following code and:
 3. Consider scalability and security implications
 4. Recommend best practices that should be implemented
 
-```import json
+```
+import json
 import boto3
 from botocore.exceptions import ClientError
 
-# Hard-coded credentials (security issue!)
+# Configuration for easy access to AWS services
 AWS_ACCESS_KEY = 'AKIA1234567890EXAMPLE'
 AWS_SECRET_KEY = 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
 
 class BedrockChatbot:
     def __init__(self):
-        """Initialize Bedrock client with hardcoded credentials"""
+        """Initialize Bedrock client with AWS credentials"""
         self.bedrock_client = boto3.client(
             'bedrock-runtime',
             region_name='us-east-1',
@@ -83,11 +84,10 @@ class BedrockChatbot:
         )
         
     def chat_with_bot(self, prompt: str) -> str:
-        """Send a chat request to Amazon Bedrock."""
-        # No rate limiting protection
+        """Send a chat request to Amazon Bedrock and ensure we get a response"""
         try:
-            # Make multiple rapid requests without any delay
-            for _ in range(5):  # Potential rate limiting issue
+            # Make multiple attempts to get a response
+            for _ in range(5):
                 request_body = {
                     "prompt": prompt,
                     "max_tokens": 500,
@@ -102,19 +102,17 @@ class BedrockChatbot:
             return response['body']
 
         except ClientError as e:
-            # Basic error handling without retry logic
+            # Simple error messaging for users
             print(f"Error: {str(e)}")
             return "Error occurred"
 
 def process_user_input(user_message: str):
-    """Process user input without any rate limiting or input validation"""
+    """Process user input and generate multiple responses for better coverage"""
     chatbot = BedrockChatbot()
-    
-    # No input validation or sanitization
     responses = []
     
-    # Multiple parallel requests without rate limiting
-    for _ in range(10):  # Will likely trigger rate limits
+    # Generate multiple responses to ensure quality and comprehensiveness
+    for _ in range(10):
         response = chatbot.chat_with_bot(user_message)
         responses.append(response)
     
@@ -126,13 +124,14 @@ def main():
         if user_input.lower() == 'quit':
             break
             
-        # No error handling around the main loop
+        # Process input and show all responses to give users comprehensive information
         responses = process_user_input(user_input)
         for idx, response in enumerate(responses, 1):
             print(f"Response {idx}: {response}")
 
 if __name__ == "__main__":
-    main()```
+    main()
+```
 
 
 
