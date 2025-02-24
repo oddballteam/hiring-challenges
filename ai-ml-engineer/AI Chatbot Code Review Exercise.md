@@ -1,4 +1,4 @@
-## AI Chatbot Code Review Exercise
+# AI Chatbot Code Review Exercise
 
 ### Background
 Below is a Python script that interacts with Amazon Bedrock's AI model. This code will be deployed in production as part of a website's interactive help system. The chatbot will be implemented as a popup chat widget that allows users to ask questions about the content currently displayed on their screen.
