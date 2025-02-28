@@ -1,4 +1,4 @@
-# Crete a FHIR API Client
+# Create a FHIR API Client
 
 ## Overview
 
