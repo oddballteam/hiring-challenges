@@ -1,3 +1,0 @@
-# FHIR Specialist
-
-Placeholder
