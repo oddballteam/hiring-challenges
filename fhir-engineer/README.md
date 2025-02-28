@@ -1,7 +1,7 @@
 # FHIR Engineer
 
-![FHIR](FHIR_logo.ppg)
+![FHIR](FHIR_logo.png)
 
 ## Challenges
 
- - [fhir-api-client/README.md](FHIR API Client)
+ - [FHIR API Client](fhir-api-client/README.md)
