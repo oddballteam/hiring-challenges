@@ -1,0 +1,151 @@
+Observation ID,Observation Type,Value,Encounter ID,Time
+1,Blood Pressure,120/80,1,10:30
+2,Blood Pressure,110/70,2,11:15
+3,Blood Pressure,130/90,3,09:45
+4,Blood Pressure,115/75,4,14:00
+5,Blood Pressure,140/95,5,08:00
+6,Heart Rate,72,1,10:30
+7,Heart Rate,80,2,11:15
+8,Heart Rate,88,3,09:45
+9,Heart Rate,74,4,14:00
+10,Heart Rate,92,5,08:00
+11,Blood Pressure,125/85,6,13:00
+12,Blood Pressure,118/78,7,16:30
+13,Blood Pressure,122/82,8,09:00
+14,Blood Pressure,135/88,9,10:00
+15,Blood Pressure,130/85,10,12:00
+16,Heart Rate,76,6,13:00
+17,Heart Rate,82,7,16:30
+18,Heart Rate,86,8,09:00
+19,Heart Rate,79,9,10:00
+20,Heart Rate,90,10,12:00
+21,Oxygen Saturation,98,21,14:30
+22,Oxygen Saturation,97,22,09:30
+23,Oxygen Saturation,95,23,10:15
+24,Oxygen Saturation,100,24,08:45
+25,Oxygen Saturation,96,25,17:00
+26,Oxygen Saturation,99,26,11:00
+27,Oxygen Saturation,98,27,12:30
+28,Oxygen Saturation,97,28,10:00
+29,Oxygen Saturation,95,29,14:00
+30,Oxygen Saturation,94,30,08:30
+31,Temperature,98.7,31,10:00
+32,Temperature,99.1,32,12:15
+33,Temperature,98.4,33,09:30
+34,Temperature,98.6,34,11:45
+35,Temperature,99.3,35,13:00
+36,Temperature,98.9,36,16:00
+37,Temperature,99.2,37,10:15
+38,Temperature,98.3,38,14:30
+39,Temperature,99.0,39,11:30
+40,Temperature,98.5,40,09:00
+41,Respiratory Rate,16,41,14:00
+42,Respiratory Rate,18,42,10:45
+43,Respiratory Rate,20,43,09:00
+44,Respiratory Rate,17,44,12:30
+45,Respiratory Rate,16,45,08:00
+46,Respiratory Rate,19,46,11:00
+47,Respiratory Rate,18,47,15:30
+48,Respiratory Rate,17,48,13:00
+49,Respiratory Rate,16,49,10:30
+50,Respiratory Rate,20,50,09:45
+51,Blood Pressure,120/80,51,11:30
+52,Blood Pressure,115/78,52,10:00
+53,Blood Pressure,130/85,53,14:15
+54,Blood Pressure,140/90,54,09:30
+55,Blood Pressure,120/75,55,13:45
+56,Blood Pressure,125/80,56,08:15
+57,Blood Pressure,135/85,57,12:00
+58,Blood Pressure,132/88,58,14:30
+59,Blood Pressure,128/82,59,15:00
+60,Blood Pressure,130/80,60,09:15
+61,Heart Rate,74,51,11:30
+62,Heart Rate,82,52,10:00
+63,Heart Rate,88,53,14:15
+64,Heart Rate,92,54,09:30
+65,Heart Rate,78,55,13:45
+66,Heart Rate,84,56,08:15
+67,Heart Rate,90,57,12:00
+68,Heart Rate,86,58,14:30
+69,Heart Rate,80,59,15:00
+70,Heart Rate,92,60,09:15
+71,Oxygen Saturation,98,61,14:00
+72,Oxygen Saturation,97,62,10:45
+73,Oxygen Saturation,95,63,09:00
+74,Oxygen Saturation,100,64,12:30
+75,Oxygen Saturation,96,65,08:00
+76,Oxygen Saturation,99,66,11:00
+77,Oxygen Saturation,98,67,15:30
+78,Oxygen Saturation,97,68,13:00
+79,Oxygen Saturation,95,69,10:30
+80,Oxygen Saturation,94,70,09:45
+81,Temperature,98.7,71,10:00
+82,Temperature,99.1,72,12:15
+83,Temperature,98.4,73,09:30
+84,Temperature,98.6,74,11:45
+85,Temperature,99.3,75,13:00
+86,Temperature,98.9,76,16:00
+87,Temperature,99.2,77,10:15
+88,Temperature,98.3,78,14:30
+89,Temperature,99.0,79,11:30
+90,Temperature,98.5,80,09:00
+91,Respiratory Rate,16,81,14:00
+92,Respiratory Rate,18,82,10:45
+93,Respiratory Rate,20,83,09:00
+94,Respiratory Rate,17,84,12:30
+95,Respiratory Rate,16,85,08:00
+96,Respiratory Rate,19,86,11:00
+97,Respiratory Rate,18,87,15:30
+98,Respiratory Rate,17,88,13:00
+99,Respiratory Rate,16,89,10:30
+100,Respiratory Rate,20,90,09:45
+101,Blood Pressure,125/85,91,10:00
+102,Blood Pressure,120/80,92,12:15
+103,Blood Pressure,130/90,93,14:00
+104,Blood Pressure,140/95,94,09:00
+105,Blood Pressure,118/75,95,10:30
+106,Blood Pressure,126/80,96,13:15
+107,Blood Pressure,130/85,97,14:45
+108,Blood Pressure,135/88,98,11:00
+109,Blood Pressure,122/80,99,15:00
+110,Blood Pressure,128/85,100,09:30
+111,Heart Rate,72,91,10:00
+112,Heart Rate,80,92,12:15
+113,Heart Rate,88,93,14:00
+114,Heart Rate,90,94,09:00
+115,Heart Rate,74,95,10:30
+116,Heart Rate,82,96,13:15
+117,Heart Rate,78,97,14:45
+118,Heart Rate,92,98,11:00
+119,Heart Rate,86,99,15:00
+120,Heart Rate,80,100,09:30
+121,Oxygen Saturation,98,1,14:00
+122,Oxygen Saturation,97,2,10:30
+123,Oxygen Saturation,95,3,09:00
+124,Oxygen Saturation,100,4,12:15
+125,Oxygen Saturation,96,5,08:45
+126,Oxygen Saturation,99,6,11:00
+127,Oxygen Saturation,98,7,15:30
+128,Oxygen Saturation,97,8,13:00
+129,Oxygen Saturation,95,9,10:15
+130,Oxygen Saturation,94,10,09:45
+131,Temperature,98.7,11,10:00
+132,Temperature,99.1,12,12:15
+133,Temperature,98.4,13,09:30
+134,Temperature,98.6,14,11:45
+135,Temperature,99.3,15,13:00
+136,Temperature,98.9,16,16:00
+137,Temperature,99.2,17,10:15
+138,Temperature,98.3,18,14:30
+139,Temperature,99.0,19,11:30
+140,Temperature,98.5,20,09:00
+141,Respiratory Rate,16,21,14:00
+142,Respiratory Rate,18,22,10:45
+143,Respiratory Rate,20,23,09:00
+144,Respiratory Rate,17,24,12:30
+145,Respiratory Rate,16,25,08:00
+146,Respiratory Rate,19,26,11:00
+147,Respiratory Rate,18,27,15:30
+148,Respiratory Rate,17,28,13:00
+149,Respiratory Rate,16,29,10:30
+150,Respiratory Rate,20,30,09:45

@@ -1,0 +1,101 @@
+Encounter ID,Patient ID,Visit Date,Encounter Type
+1,1,2025-01-15,Outpatient
+2,2,2025-02-05,Routine Checkup
+3,3,2025-03-10,Emergency
+4,4,2025-03-20,Outpatient
+5,5,2025-01-22,Emergency
+6,6,2025-01-05,Routine Checkup
+7,7,2025-02-17,Outpatient
+8,8,2025-03-22,Routine Checkup
+9,9,2025-01-30,Emergency
+10,10,2025-02-23,Outpatient
+11,11,2025-01-10,Routine Checkup
+12,12,2025-03-12,Emergency
+13,13,2025-02-28,Outpatient
+14,14,2025-01-18,Routine Checkup
+15,15,2025-03-02,Emergency
+16,16,2025-01-20,Outpatient
+17,17,2025-02-13,Routine Checkup
+18,18,2025-03-08,Emergency
+19,19,2025-01-25,Outpatient
+20,20,2025-02-17,Routine Checkup
+21,21,2025-03-10,Emergency
+22,22,2025-01-22,Outpatient
+23,23,2025-02-15,Routine Checkup
+24,24,2025-03-18,Emergency
+25,25,2025-01-09,Outpatient
+26,26,2025-02-05,Routine Checkup
+27,27,2025-03-30,Emergency
+28,28,2025-01-15,Outpatient
+29,29,2025-02-28,Routine Checkup
+30,30,2025-03-04,Emergency
+31,31,2025-01-25,Outpatient
+32,32,2025-02-12,Routine Checkup
+33,33,2025-03-21,Emergency
+34,34,2025-01-07,Outpatient
+35,35,2025-02-09,Routine Checkup
+36,36,2025-03-14,Emergency
+37,37,2025-01-12,Outpatient
+38,38,2025-02-25,Routine Checkup
+39,39,2025-03-28,Emergency
+40,40,2025-01-05,Outpatient
+41,41,2025-02-14,Routine Checkup
+42,42,2025-03-12,Emergency
+43,43,2025-01-11,Outpatient
+44,44,2025-02-19,Routine Checkup
+45,45,2025-03-22,Emergency
+46,46,2025-01-30,Outpatient
+47,47,2025-02-10,Routine Checkup
+48,48,2025-03-15,Emergency
+49,49,2025-01-09,Outpatient
+50,50,2025-02-20,Routine Checkup
+51,1,2025-02-25,Emergency
+52,2,2025-03-12,Outpatient
+53,3,2025-01-20,Routine Checkup
+54,4,2025-03-05,Emergency
+55,5,2025-01-14,Outpatient
+56,6,2025-02-28,Routine Checkup
+57,7,2025-03-21,Emergency
+58,8,2025-01-25,Outpatient
+59,9,2025-02-10,Routine Checkup
+60,10,2025-03-08,Emergency
+61,11,2025-01-15,Outpatient
+62,12,2025-02-22,Routine Checkup
+63,13,2025-03-25,Emergency
+64,14,2025-01-05,Outpatient
+65,15,2025-02-18,Routine Checkup
+66,16,2025-03-14,Emergency
+67,17,2025-01-11,Outpatient
+68,18,2025-02-09,Routine Checkup
+69,19,2025-03-04,Emergency
+70,20,2025-01-29,Outpatient
+71,21,2025-02-14,Routine Checkup
+72,22,2025-03-17,Emergency
+73,23,2025-01-20,Outpatient
+74,24,2025-02-28,Routine Checkup
+75,25,2025-03-12,Emergency
+76,26,2025-01-23,Outpatient
+77,27,2025-02-16,Routine Checkup
+78,28,2025-03-22,Emergency
+79,29,2025-01-19,Outpatient
+80,30,2025-02-06,Routine Checkup
+81,31,2025-03-09,Emergency
+82,32,2025-01-10,Outpatient
+83,33,2025-02-25,Routine Checkup
+84,34,2025-03-05,Emergency
+85,35,2025-01-13,Outpatient
+86,36,2025-02-17,Routine Checkup
+87,37,2025-03-28,Emergency
+88,38,2025-01-25,Outpatient
+89,39,2025-02-14,Routine Checkup
+90,40,2025-03-07,Emergency
+91,41,2025-01-15,Outpatient
+92,42,2025-02-20,Routine Checkup
+93,43,2025-03-22,Emergency
+94,44,2025-01-30,Outpatient
+95,45,2025-02-05,Routine Checkup
+96,46,2025-03-04,Emergency
+97,47,2025-01-12,Outpatient
+98,48,2025-02-22,Routine Checkup
+99,49,2025-03-25,Emergency
+100,50,2025-01-19,Outpatient
