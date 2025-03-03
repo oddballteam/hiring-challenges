@@ -48,3 +48,8 @@ They can not sign up or change plans directly on our site. However, we link them
 | plan_to_zip | plan_id, zip_code |
 | user | username, password, email, beneficiary_id |
 
+
+## Resource Links
+
+- [Interviewer Guide](https://docs.google.com/document/d/1rUDV5Q3qga2oAX3o107PNsZezdPvoTl2SqULUstbbFM/edit?usp=drive_link) (Internal)
+
