@@ -1,6 +1,6 @@
-# Welcome to Oddball’s AI/ML Engineer Challenge!
-
 ![Oddball](https://oddball.io/wp-content/uploads/2024/01/Oddball-Logo-High-Res.png)
+
+# Welcome to Oddball’s AI/ML Engineer Challenge!
 
 Congratulations on making it to the next step in our recruitment process! We’re excited to get to know you better and explore how your skills can contribute to our growing team.
 
