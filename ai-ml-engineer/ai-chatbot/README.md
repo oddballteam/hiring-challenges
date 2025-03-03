@@ -1,23 +1,26 @@
 # AI Chatbot Code Review Exercise
 
-### Background
-Below is a Python script that interacts with Amazon Bedrock's AI model. This code will be deployed in production as part of a website's interactive help system. The chatbot will be implemented as a popup chat widget that allows users to ask questions about the content currently displayed on their screen.
+## Background
+The following Python script interacts with Amazon Bedrock's AI model. This code will be deployed in production as part of a website's interactive help system. The chatbot will be implemented as a popup chat widget that allows users to ask questions about the content currently displayed on their screen.
 
-### Current Implementation Context
-- The chatbot will be accessed by multiple concurrent users
-- Expected peak traffic: ~100 requests per minute
-- The system needs to be production-ready and secure
-- The chat widget appears on every page of the website
-- Response time requirements: < 2 seconds per interaction
+## Current Implementation Context
+- The chatbot will be accessed by multiple concurrent users.
+- Expected peak traffic: ~100 requests per minute.
+- The system needs to be **production-ready** and **secure**.
+- The chat widget appears on **every page** of the website.
+- **Response time** requirements: < 2 seconds per interaction.
 
-### Task
-Please review the following code and:
-1. Identify potential issues or vulnerabilities
-2. Suggest improvements for production readiness
-3. Consider scalability and security implications
-4. Recommend best practices that should be implemented
+## Task
+Please review the following code and provide feedback on the following aspects:
 
-```
+1. **Identify potential issues or vulnerabilities** in the code.
+2. **Suggest improvements for production readiness**, including performance optimizations and best practices.
+3. **Consider scalability and security implications**, especially given the expected peak traffic and production environment.
+4. **Recommend best practices** that should be implemented to ensure maintainability, security, and optimal performance.
+
+Here is the code for review:
+
+```python
 import json
 import boto3
 from botocore.exceptions import ClientError
