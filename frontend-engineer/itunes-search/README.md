@@ -59,7 +59,7 @@ The challenge will be assessed based on:
   - **Code Comments**: Ensure your code is well-commented to explain key sections of your logic, especially any complex or non-obvious parts.
 
 ### 2. **Project Deployment**
-- Host your project on a service like Netlify, Vercel, Supabase, Cloudflare, Supabase or GitHub Pages
+- Host your project on a service like Netlify, Vercel, Supabase, Cloudflare, Supabase, GitHub Pages, or similar hosting options.
 - Provide a link to the live project in your README file.
 - If deploying isn't possible or you run out of time, provide clear instructions in the README on how to run the project locally (e.g., installation steps, commands to run the development server, etc.) 
 
