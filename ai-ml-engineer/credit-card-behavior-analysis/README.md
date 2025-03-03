@@ -59,10 +59,3 @@ Your submission will be evaluated based on:
 ### Time Expectation
 We expect this assignment to take **no more than 4 hours** to complete. We value **the quality of your analysis** over the quantity of work. Focus on providing actionable insights and a thorough understanding of the customer segments you identify.
 
----
-
-### Tips for Success:
-- **Data Preprocessing**: Be mindful of any missing data, outliers, or skewed distributions. Address these issues effectively to ensure the clustering algorithm works well.
-- **Clustering Algorithms**: Remember that different algorithms work better for different data types. Make sure your choice of algorithm aligns with the nature of the features in the dataset.
-- **Visualizations**: Use visualizations like scatter plots, cluster heatmaps, or pairwise plots to convey the results of your clustering in a clear and compelling way.
-- **Interpretation**: Take time to understand the characteristics of each cluster. A good clustering analysis provides not just clusters, but actionable insights based on the features that differentiate each segment.
