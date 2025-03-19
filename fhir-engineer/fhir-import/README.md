@@ -45,7 +45,7 @@ Your task is to perform the following:
    - **Value**: The value of the observation (e.g., 120/80).
    - **Effective Date/Time**: The date the observation was taken, with the time from each observation row and the date from the corresponding **Visit Date** in the `encounters.csv`.
 
-5. **Return the FHIR Resources**: Once the data is transformed, return a list of FHIR-compliant JSON objects including the relevant references to ensure proper linking. They should output to the local file system.
+5. **Return the FHIR Resources**: Once the data is transformed, return a list of FHIR-compliant JSON objects including the relevant references to ensure proper linking. The FHIR resources should be saved as JSON files on the local file system.
 
 6. **Handle Errors**: If there is invalid or missing data in any of the CSV files (e.g., missing required fields), return an error or provide feedback.
 
