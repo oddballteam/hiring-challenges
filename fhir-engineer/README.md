@@ -14,5 +14,5 @@ We’re looking for forward-thinking candidates who have a deep understanding of
 
 We’ve designed a challenge to assess your understanding of the FHIR protocol and your ability to implement solutions based on it. These tasks reflect a scaled down version of the kind of work you'll be doing in the role. Our HR team will share the details of your assigned challenge.
 
-    - [FHIR API Client](fhir-api-client/README.md)
-    - [FHIR Import](fhir-import/README.md)
+- [FHIR API Client](fhir-api-client/README.md)
+- [FHIR Import](fhir-import/README.md)
