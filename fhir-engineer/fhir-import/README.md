@@ -7,6 +7,7 @@ In this challenge, you are tasked with transforming healthcare data from multipl
 This can be executed in any way that you like: a webpage, command line interface, or native application. The desired outcome is to convert the date found in the CSVs into valid FHIR JSON format.
 
 This task will evaluate your ability to:
+
 - Parse and transform data from CSV into JSON.
 - Map data to FHIR resources, ensuring proper structure and compliance with the FHIR standard.
 - Handle common healthcare data transformations and workflows.
@@ -21,7 +22,7 @@ You are given the following CSV files:
 
 Your task is to perform the following:
 
-### Tasks:
+### Tasks
 
 1. **Parse the CSV Data**: Write a function to read and parse the CSV files containing the patient, encounter, and observation data.
 
@@ -44,7 +45,7 @@ Your task is to perform the following:
    - **Value**: The value of the observation (e.g., 120/80).
    - **Effective Date/Time**: The date the observation was taken, with the time from each observation row and the date from the corresponding **Visit Date** in the `encounters.csv`.
 
-5. **Return the FHIR Resources**: Once the data is transformed, return a list of FHIR-compliant JSON objects. You may include any necessary metadata (e.g., patient ID references, encounter references, etc.) to ensure the resources are linked properly. They should output to the local file system.
+5. **Return the FHIR Resources**: Once the data is transformed, return a list of FHIR-compliant JSON objects including the relevant references to ensure proper linking. They should output to the local file system.
 
 6. **Handle Errors**: If there is invalid or missing data in any of the CSV files (e.g., missing required fields), return an error or provide feedback.
 
@@ -62,19 +63,23 @@ This file contains observation data for the patients. Below is the structure of 
 ### Instructions
 
 1. **Setup**:
-- Use any programming language or framework you are comfortable with to process the CSV data and generate the FHIR JSON data.
-- You may use libraries such as **pandas (Python)** or **csv-parser (JavaScript)** for reading and parsing the CSV data.
+
+   - Use any programming language or framework you are comfortable with to process the CSV data and generate the FHIR JSON data.
+   - You may use libraries such as **pandas (Python)** or **csv-parser (JavaScript)** for reading and parsing the CSV data.
 
 2. **FHIR Data Structure**:
-- Familiarize yourself with the **FHIR specification** for Patient, Encounter, and Observation resources. Ensure you generate valid JSON for these resources.
+
+   - Familiarize yourself with the **FHIR specification** for Patient, Encounter, and Observation resources. Ensure you generate valid JSON for these resources.
 
 3. **Error Handling**:
-- Handle common errors such as missing or invalid data. Provide clear messages when something is wrong with the input CSV files (e.g., missing "First Name", invalid "Date of Birth").
+
+   - Handle common errors such as missing or invalid data. Provide clear messages when something is wrong with the input CSV files (e.g., missing "First Name", invalid "Date of Birth").
 
 4. **Deliverables**:
-- Provide a link to your solution as a public GitHub repository.
-- Include a README file explaining how to run your solution and any dependencies you used.
-- Demonstrate the solution through well-organized code with clear comments and documentation.
+
+   - Provide a link to your solution as a public GitHub repository.
+   - Include a README file explaining how to run your solution and any dependencies you used.
+   - Demonstrate the solution through well-organized code with clear comments and documentation.
 
 ## Evaluation Criteria
 
