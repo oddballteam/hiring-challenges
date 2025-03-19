@@ -1,6 +1,6 @@
-# Challenge: Transform CSV Data to FHIR Resources
+# Challenge: Import and Transform
 
-## Overview
+## Overview: Transform CSV Data to FHIR Resources
 
 In this challenge, you are tasked with transforming healthcare data from multiple CSV files into FHIR-compliant resources. You will be provided with several CSV files containing patient, encounter, and observation data, and your goal is to convert this data into corresponding FHIR **Patient**, **Encounter**, and **Observation** resources.
 
@@ -45,7 +45,7 @@ Your task is to perform the following:
    - **Value**: The value of the observation (e.g., 120/80).
    - **Effective Date/Time**: The date the observation was taken, with the time from each observation row and the date from the corresponding **Visit Date** in the `encounters.csv`.
 
-5. **Return the FHIR Resources**: Once the data is transformed, return a list of FHIR-compliant JSON objects including the relevant references to ensure proper linking. They should output to the local file system.
+5. **Return the FHIR Resources**: Once the data is transformed, return a list of FHIR-compliant JSON objects including the relevant references to ensure proper linking. The FHIR resources should be saved as JSON files on the local file system.
 
 6. **Handle Errors**: If there is invalid or missing data in any of the CSV files (e.g., missing required fields), return an error or provide feedback.
 
