@@ -1,12 +1,6 @@
 ![Oddball](https://oddball.io/wp-content/uploads/2024/01/Oddball-Logo-High-Res.png)
 
-# Welcome to Oddball’s AI/ML Engineer Challenge!
-
-Congratulations on making it to the next step in our recruitment process! We’re excited to get to know you better and explore how your skills can contribute to our growing team.
-
-At **Oddball**, we're a team of innovators, problem-solvers, and passionate individuals working to create meaningful solutions in AI/ML, software development, and technology. We believe in making a positive impact through cutting-edge technology, collaboration, and continuous learning. As part of our mission, we’re looking for talented **AI/ML Engineers** to join our team and help us drive the future of intelligent systems.
-
-## The AI/ML Engineer Role
+# The AI/ML Engineer Role
 
 As an **AI/ML Engineer** at Oddball, you will be responsible for designing, developing, and deploying machine learning models that power a variety of projects. You’ll work on exciting challenges, utilizing state-of-the-art AI techniques, and have the opportunity to shape solutions that impact real-world problems in the government space.
 
