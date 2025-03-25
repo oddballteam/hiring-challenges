@@ -13,7 +13,7 @@ We are looking for great teammates who are not only technically adept but also e
 We’ve designed two challenges for you that will give us a deeper insight into your capabilities and problem-solving skills. These tasks are designed to reflect the type of work you will encounter in the role and to help you showcase your strengths. Our HR team will communicate with you on which challenge you'll be tasked with.
 
 - [**iTunes Search**](itunes-search/README.md)
-- [**NASA Picture of the Day**](nasa-pd/README.md)
+- [**NASA Picture of the Day**](nasa-pod/README.md)
 
 ---
 
