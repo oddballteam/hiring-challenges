@@ -4,7 +4,9 @@
 
 Congratulations on progressing to the skill assessment stage of our hiring process! We are excited to get to know you better and potentially welcome you to our team at Oddball.
 
-In this phase, we want to evaluate both your skillset and your aptitude to communicate your decisions. We will share with you the details of which challenge you have been assigned and any necessary details to be ready for the interview. The desired outcome is not a single prescribed solution or perfection. Instead, we hope this process will allow us to see your creativity, ingenuity, and (most importantly) prompt a great conversation.
+In this phase, we want to evaluate both your capabilities and your aptitude to communicate your decisions. The desired outcome is not a single prescribed solution or perfection. Instead, we hope this process will allow us to see your creativity, ingenuity, and (most importantly) prompt a great conversation.
+
+Your recruiter should have already informed you which challenge you have been assigned.
 
 ## Good Luck!
 
