@@ -10,17 +10,7 @@ We are looking for great teammates who are not only technically adept but also e
 
 ## Your Next Steps: The Challenges
 
-We’ve designed two challenges for you that will give us a deeper insight into your capabilities and problem-solving skills. These tasks are designed to reflect the type of work you will encounter in the role and to help you showcase your strengths. Our HR team will communicate with you on which challenge you'll be tasked with.
+We’ve designed two challenges for you that will give us a deeper insight into your capabilities and problem-solving skills. These tasks are designed to reflect the type of work you will encounter in the role and to help you showcase your strengths.
 
 - [**iTunes Search**](itunes-search/README.md)
 - [**NASA Picture of the Day**](nasa-pod/README.md)
-
----
-
-## Good Luck!
-
-We’re excited to see how you tackle these challenges. This is your chance to showcase your skills and demonstrate how you can contribute to the success of Oddball and our mission. Take your time, and don’t hesitate to reach out if you have any questions along the way.
-
-Good luck, and we look forward to reviewing your work!
-
-The Oddball Team

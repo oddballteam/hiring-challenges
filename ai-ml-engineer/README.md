@@ -14,13 +14,3 @@ We’ve designed two challenges for you that will give us a deeper insight into 
 
 - [**Credit Card Customer Behavior Analysis**](credit-card-behavior-analysis/README.md)
 - [**AI Chatbot Code Review Exercise**](ai-chatbot/README.md)
-
----
-
-## Good Luck!
-
-We’re excited to see how you tackle these challenges. This is your chance to showcase your skills and demonstrate how you can contribute to the success of Oddball and our mission. Take your time, and don’t hesitate to reach out if you have any questions along the way.
-
-Good luck, and we look forward to reviewing your work!
-
-The Oddball Team
