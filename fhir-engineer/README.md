@@ -1,8 +1,8 @@
+![Oddball](https://oddball.io/wp-content/uploads/2024/01/Oddball-Logo-High-Res.png)
+
 # FHIR Engineer
 
 ![FHIR](FHIR_logo.png)
-
-## The Role
 
 As a FHIR Engineer at Oddball, you'll work on building and optimizing systems that use the FHIR (Fast Healthcare Interoperability Resources) standard for healthcare data exchange. Your primary responsibility will be to design backend solutions that ensure smooth, secure, and scalable communication between healthcare systems using FHIR, both as a file format and an API protocol.
 
