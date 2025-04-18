@@ -1,6 +1,7 @@
 # Friends of Friends
 
-![Shared Connections](shared-connections.png)
+![Shared Connections](shared-connections.png){width=300}
+
 
 It's a small world, after all! We would like to examine who are the mutual friends, shared between two people. Create a user interface that allows us to select two people from the database. Indicate whether they are friends with each other and list their shared connections.
 

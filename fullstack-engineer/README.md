@@ -10,5 +10,5 @@ As a **Full Stack Engineer** at Oddball, you'll build and maintain scalable, use
 
 We’ve designed two challenges for you that will give us a deeper insight into your capabilities and problem-solving skills. These tasks are designed to reflect the type of work you will encounter in the role and to help you showcase your strengths.
 
-- [**Friends of Friends**](friend-of-friends/README.md)
+- [**Friends of Friends**](friends-of-friends/README.md)
 - [**Moods and Stress**](moods-and-stress/README.md)
