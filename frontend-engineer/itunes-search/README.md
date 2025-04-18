@@ -48,7 +48,7 @@ The challenge will be assessed based on:
 
 ---
 
-## Submission Guidelines
+## Submission
 
 ### 1. **GitHub Repository**
 - Create a **public GitHub repository** to submit your solution. The repository should contain the full implementation, including any required files (HTML, CSS, JavaScript, etc.).
@@ -92,7 +92,3 @@ The challenge will be assessed based on:
 ### Creativity:
 - How unique or interesting is the approach to the user interface and functionality?
 - Were additional features (like audio previews, search suggestions) implemented in a creative way?
-
----
-
-By submitting this challenge, you’ll have the opportunity to demonstrate your technical skills, creativity, and problem-solving abilities in a real-world application scenario. We look forward to reviewing your work!
