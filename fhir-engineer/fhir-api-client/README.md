@@ -76,3 +76,9 @@ You need to implement the following tasks using the FHIR API:
 
 - **FHIR Specification**: [FHIR Official Documentation](https://www.hl7.org/fhir/)
 - **HAPI FHIR Test Server**: [https://hapi.fhir.org/baseR4](https://hapi.fhir.org/baseR4)
+
+---
+
+## Preparing for the Interview
+
+**[Next Steps...](../../next-steps.md)**

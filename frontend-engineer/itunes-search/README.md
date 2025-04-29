@@ -18,12 +18,14 @@ The challenge will be assessed based on:
 ## Requirements
 
 ### 1. **Search Functionality**
+
 - Allow the user to search for music (albums, songs, artists, etc.) in the iTunes database.
 - **Keyword search**: Users should be able to search by keyword (e.g., artist name, song title, album name).
 - **Filter by category**: The search should allow filtering by type, such as **music**, **albums**, **songs**, etc., while excluding **podcasts**, **movies**, etc.
 - **Explicit filter**: Users should be able to specify if they want to allow or exclude explicit content in the search results.
   
 ### 2. **UI/UX Design**
+
 - **Responsive Design**: The UI must be mobile-friendly. It should adjust smoothly to different screen sizes and orientations.
 - **Search results display**: Each result should show:
   - Title (song, album, or artist)
@@ -41,6 +43,7 @@ The challenge will be assessed based on:
   - Implement search suggestions as the user types (optional but encouraged).
 
 ### 3. **Error Handling and Edge Cases**
+
 - Handle scenarios like:
   - No results found (display a friendly message to the user).
   - API errors (e.g., server downtime, invalid requests).
@@ -48,24 +51,8 @@ The challenge will be assessed based on:
 
 ---
 
-## Submission
-
-### 1. **GitHub Repository**
-- Create a **public GitHub repository** to submit your solution. The repository should contain the full implementation, including any required files (HTML, CSS, JavaScript, etc.).
-- The repository must include:
-  - A **clear, concise README** with the following:
-    - Description of the project.
-    - Any other details that would help us understand your implementation (e.g., architectural decisions, libraries used, etc.).
-  - **Code Comments**: Ensure your code is well-commented to explain key sections of your logic, especially any complex or non-obvious parts.
-
-### 2. **Project Deployment**
-- Host your project on a service like Netlify, Vercel, Supabase, Cloudflare, GitHub Pages, or similar hosting options.
-- Provide a link to the live project in your README file.
-- If deploying isn't possible or you run out of time, provide clear instructions in the README on how to run the project locally (e.g., installation steps, commands to run the development server, etc.) 
-
----
-
 ## Bonus (Optional)
+
 - **Unit Tests**: Add unit tests for key components, such as the search functionality or pagination.
 - **Accessibility**: Implement basic accessibility features (e.g., keyboard navigation, ARIA labels).
 - **Advanced Search Options**: Implement additional filters like genre, release date, or country.
@@ -75,20 +62,30 @@ The challenge will be assessed based on:
 
 ## Evaluation Criteria
 
-### Code Quality:
+### Code Quality
+
 - Is the code modular and organized?
 - Are best practices in terms of coding standards followed (naming conventions, file organization)?
 - Is the code reusable, scalable, and maintainable?
 
-### UI/UX:
+### UI/UX
+
 - Is the interface user-friendly and easy to navigate?
 - Is the design visually appealing?
 - How well does it respond to different screen sizes (e.g., mobile, tablet, desktop)?
   
-### Functionality:
+### Functionality
+
 - Does the app meet all the core requirements (search by keyword, filtering, pagination, etc.)?
 - Does the application handle errors gracefully?
   
-### Creativity:
+### Creativity
+
 - How unique or interesting is the approach to the user interface and functionality?
 - Were additional features (like audio previews, search suggestions) implemented in a creative way?
+
+---
+
+## Preparing for the Interview
+
+**[Next Steps...](../../next-steps.md)**

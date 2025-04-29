@@ -98,3 +98,9 @@ This file contains observation data for the patients. Below is the structure of 
 ## Resources
 
 - **FHIR Specification**: [FHIR Official Documentation](https://www.hl7.org/fhir/)
+
+---
+
+## Preparing for the Interview
+
+**[Next Steps...](../../next-steps.md)**

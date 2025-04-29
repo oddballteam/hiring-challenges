@@ -1,6 +1,6 @@
 # Whatever.gov
 
-Welcome to the hypothetical government service called whatever.gov! In this excercise, you are consulting with our team on how to improve our website and solve a few problems that we are having.
+Welcome to the hypothetical government service called whatever.gov! In this exercise, you are consulting with our team on how to improve our website and solve a few problems that we are having.
 
 Please read this overview and get a general understanding of the product and architecture prior to the interview. This document gives you a skeleton overview of the system, but does not delve into the fine details.
 
@@ -48,8 +48,12 @@ They can not sign up or change plans directly on our site. However, we link them
 | plan_to_zip | plan_id, zip_code |
 | user | username, password, email, beneficiary_id |
 
-
 ## Resource Links
 
 - [Interviewer Guide](https://docs.google.com/document/d/1rUDV5Q3qga2oAX3o107PNsZezdPvoTl2SqULUstbbFM/edit?usp=drive_link) (Internal)
 
+---
+
+## Preparing for the Interview
+
+**[Next Steps...](../../next-steps.md)**

@@ -1,9 +1,11 @@
 # AI Chatbot Code Review Exercise
 
 ## Background
+
 The following Python script interacts with Amazon Bedrock's AI model. This code will be deployed in production as part of a website's interactive help system. The chatbot will be implemented as a popup chat widget that allows users to ask questions about the content currently displayed on their screen.
 
 ## Current Implementation Context
+
 - The chatbot will be accessed by multiple concurrent users.
 - Expected peak traffic: ~100 requests per minute.
 - The system needs to be **production-ready** and **secure**.
@@ -11,6 +13,7 @@ The following Python script interacts with Amazon Bedrock's AI model. This code 
 - **Response time** requirements: < 2 seconds per interaction.
 
 ## Task
+
 Please review the following code and provide feedback on the following aspects:
 
 1. **Identify potential issues or vulnerabilities** in the code.
