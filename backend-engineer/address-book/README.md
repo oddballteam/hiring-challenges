@@ -39,29 +39,6 @@ You do not need to create a front end. Optionally, you can create tests or Postm
 
 ---
 
-## Submission
+## Preparing for the interview
 
-We encourage you not to spend more than a few hours in completing this project. We are not necessarily looking for a production ready application. The goal is to get a feel for how you think and set up a great conversation.
-
-Please submit the project at least 4 hours before your scheduled interview. This will allow us time to preview it before the interview.
-
-### 1. GitHub Repository
-
-- Create a **public GitHub repository** to submit your solution. The repository should contain the full implementation, including any required files (HTML, CSS, JavaScript, etc.) to build and run the web application.
-- The repository must include:
-  - A **clear, concise README** with the following:
-    - Description of the project.
-    - How to build and run it locally.
-    - Any other details that would help us understand your implementation (e.g., architectural decisions, libraries used, etc.).
-  - **Code Comments**: Ensure your code is well-commented to explain key sections of your logic, especially any complex or non-obvious parts.
-
-### 2. Deployment (optional)
-
-- Host your project on a service like Netlify, Vercel, Supabase, Cloudflare, GitHub Pages, or similar hosting options.
-- Provide a link to the live project in your README file.
-
----
-
-## Interview
-
-During the interview itself, we'll ask you to give a demo of the application and walk through your technical implementation. We'll discuss your design decisions, challenges you faced, possible enhancements, etc.
+*[../../next-steps.md](Next Steps)*
