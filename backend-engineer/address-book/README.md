@@ -39,4 +39,4 @@ You do not need to create a front end. Optionally, you can create tests or Postm
 
 ---
 
-Preparing for the interview: **[Next Steps...](../../next-steps.md)**
+**[Next Steps...](../../next-steps.md)** _Preparing for the interview_
