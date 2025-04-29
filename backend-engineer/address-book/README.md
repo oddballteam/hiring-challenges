@@ -39,6 +39,6 @@ You do not need to create a front end. Optionally, you can create tests or Postm
 
 ---
 
-## Preparing for the interview
+## Preparing for the Interview
 
-*[../../next-steps.md](Next Steps)*
+**[Next Steps](../../next-steps.md)**
