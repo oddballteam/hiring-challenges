@@ -1,0 +1,7 @@
+category_id,category_name,department
+TECH,Technical Support,IT
+BILL,Billing Inquiry,Finance
+ACCT,Accounting,Finance
+BENE,Benefits Questions,Benefits
+CLMS,Claims Processing,Operations
+GENQ,General Inquiry,Customer Service 

@@ -1,0 +1,5 @@
+agent_id,full_name,contact_center_id,hire_date,category_id,action
+AGT008,Lisa Anderson,CC002,2024-02-01,SCHD,add
+AGT009,John Martinez,CC003,2024-04-15,GENQ,add
+AGT010,Karen Lee,CC001,2024-06-01,DOCS,add
+AGT002,Michael Chen,CC001,2024-03-01,TECH,update 

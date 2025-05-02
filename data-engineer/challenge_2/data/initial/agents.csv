@@ -1,0 +1,6 @@
+agent_id,full_name,contact_center_id,hire_date,category_id
+AGT001,Sarah Johnson,CC001,2024-01-15,TECH
+AGT002,Michael Chen,CC001,2024-03-01,BILL
+AGT003,David Williams,CC002,2024-02-15,CLMS
+AGT004,Maria Garcia,CC002,2024-04-01,BENE
+AGT005,James Wilson,CC003,2024-01-20,TECH 

@@ -1,0 +1,4 @@
+agent_id,full_name,contact_center_id,hire_date,category_id,action
+AGT006,Emily Brown,CC003,2024-05-01,ELIG,add
+AGT007,Robert Taylor,CC001,2024-03-15,PROV,add
+AGT003,David Williams,CC003,2024-02-15,CLMS,update 

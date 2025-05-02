@@ -1,0 +1,4 @@
+category_id,category_name,department,action
+ELIG,Eligibility Check,Operations,add
+PROV,Provider Relations,Benefits,add
+ACCT,Accounting,Finance,delete 

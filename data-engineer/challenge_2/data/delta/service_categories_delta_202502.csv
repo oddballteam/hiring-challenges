@@ -1,0 +1,4 @@
+category_id,category_name,department,action
+SCHD,Scheduling,Operations,add
+DOCS,Documentation,Finance,add
+GENQ,General Inquiry,Member Services,update 
