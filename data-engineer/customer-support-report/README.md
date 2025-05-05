@@ -108,6 +108,6 @@ python pipeline.py
 
 ## Preparing for the Interview
 
-**[Next Steps...](h../../next-steps.md)**
+**[Next Steps...](../../next-steps.md)** - _For candidates_
 
-[Internal Notes](https://drive.google.com/drive/folders/1CpN3WScbUuBpDPKzTv13U-V4OYquszrL?usp=drive_link) _(For reviewer only)_
+[Internal Notes](https://drive.google.com/drive/folders/1CpN3WScbUuBpDPKzTv13U-V4OYquszrL?usp=drive_link) _For reviewers_
