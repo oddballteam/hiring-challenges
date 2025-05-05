@@ -1,7 +1,5 @@
 # Customer Support Interaction Data Engineering Challenge
 
-[Internal Notes](https://drive.google.com/drive/folders/1CpN3WScbUuBpDPKzTv13U-V4OYquszrL?usp=drive_link) _(For reviewer only)_
-
 ## Scenario
 
 You are working with a national organization's enterprise operations department. They actively track contact center intake volume using data from various support channels.
@@ -21,8 +19,8 @@ Your task is to build a new pipeline that will ingest and process these files se
 
 **Directories:**
 
-- [data/initial/] – _full extract generated end of January 2025_
-- [data/delta/] – _delta files generated for February & March 2025_
+- [data/initial/](data/initial/) – _full extract generated end of January 2025_
+- [data/delta/](data/delta/) – _delta files generated for February & March 2025_
 
 > The initial and delta file structures are identical, except delta files include an `action` column denoting monthly changes (additions, updates, deletions).
 
@@ -111,3 +109,5 @@ python pipeline.py
 ## Preparing for the Interview
 
 **[Next Steps...](h../../next-steps.md)**
+
+[Internal Notes](https://drive.google.com/drive/folders/1CpN3WScbUuBpDPKzTv13U-V4OYquszrL?usp=drive_link) _(For reviewer only)_

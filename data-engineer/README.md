@@ -8,5 +8,5 @@ As a **Data Engineer** at Oddball, you'll design and build the pipelines, system
 
 We’ve designed a challenge to assess your backend development skills. These tasks reflect a scaled down version of the kind of work you'll be doing in the role.
 
-- [Data Pipeline](basic-pipeline/README.md)
+- [Basic Pipeline](basic-pipeline/README.md)
 - [Customer Support Report](customer-support-report/README.md)
