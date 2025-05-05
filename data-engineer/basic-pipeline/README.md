@@ -2,6 +2,8 @@
 
 Your task is to build a data pipeline that ingests, processes, and aggregates the provided datasets. The pipeline should support exporting the processed data in a format specified by the user (e.g., CSV, Parquet, or JSON).
 
+You may use whatever language, framework, and dependencies that you choose. Most often it is completed using Python, but you may alternatively use R, JavaScript, etc.
+
 ---
 
 ## Datasets
@@ -29,10 +31,12 @@ You are provided with three datasets:
    - Convert any "dirty" data into more native database types such as float, booleans, date, datetime, etc.
    - Handle missing or null values appropriately.
    - Remove duplicate records if any.
+   - Persist the cleaned data.
 
-3. **Transformations & Aggregations:**  
+3. **Transformations & Aggregations:**
+   As the next step in the pipeline, process your cleaned data files to generate calculated data marts.
+   These aggregated views/tables should be saved as files. Create the following reports:
 
-   Create the following aggregated views/tables:
    - **Customer Summary:** For each customer, calculate:
      - Total number of transactions.
      - Total amount spent.
@@ -43,14 +47,15 @@ You are provided with three datasets:
    - **Daily Transactions:** Calculate:
      - Total transactions and revenue for each day.
 
-4. **Exporting:**  
+4. **User Interface:**  
    - Implement a command-line interface (CLI) to run the pipeline.
    - Allow the user to specify the output format (CSV, Parquet, or JSON).
    - Save the outputs into separate files for each aggregated view.
 
 5. **Documentation:**  
    - Write a `README` explaining:
-     - How to set up and run the project.
+     - Any requirements to set up the environment for the demo.
+     - How to use the CLI, with example commands.
      - Assumptions made during development.
      - Description of each aggregated view.
 
