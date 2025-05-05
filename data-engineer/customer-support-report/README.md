@@ -110,4 +110,4 @@ python pipeline.py
 
 **[Next Steps...](../../next-steps.md)** - _For candidates_
 
-[Internal Notes](https://drive.google.com/drive/folders/1CpN3WScbUuBpDPKzTv13U-V4OYquszrL?usp=drive_link) _For reviewers_
+[Internal Notes](https://drive.google.com/drive/folders/1CpN3WScbUuBpDPKzTv13U-V4OYquszrL?usp=drive_link) - _For reviewers_
