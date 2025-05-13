@@ -1,4 +1,4 @@
-## Automated Testing for a Public Website
+## Wikipedia End-to-End Automated Test
 
 **Description:**
 
