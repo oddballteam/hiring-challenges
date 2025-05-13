@@ -1,6 +1,6 @@
-## Beneficiary Support System
+# Beneficiary Support System
 
-### Description
+## Description
 
 A federal government agency uses Salesforce to manage beneficiary support interactions. They want to automate and streamline several steps to improve efficiency, accuracy, and the overall beneficiary experience. The following outlines the current support process and the desired improvements:
 
@@ -19,7 +19,7 @@ A federal government agency uses Salesforce to manage beneficiary support intera
   - Streamline the case management process to reflect different stages and dependencies, such as when beneficiary input is needed.
   - Provide supervisors with comprehensive reports on case volume, resolution times, and common inquiry types to monitor performance, identify bottlenecks, and improve service delivery.
 
-### Requirements
+## Requirements
 
 Design a Salesforce solution that addresses the desired improvements to the beneficiary support process. Your solution should include the following:
 
@@ -52,7 +52,7 @@ Design a Salesforce solution that addresses the desired improvements to the bene
       - Number of cases in each status, broken down by assigned agent
       - Top 10 most frequent inquiry types
 
-### Deliverables
+## Deliverables
 
 - A detailed description of your proposed Salesforce solution, including:
   - An explanation of the Salesforce automation tools, validation rules, and report types you would use.
