@@ -6,8 +6,6 @@ As a **Backend Engineer** at Oddball, you'll architect and build robust, scalabl
 
 ---
 
-## Your Next Steps: The Challenges
-
-We’ve designed a challenge to assess your backend development skills. These tasks reflect a scaled down version of the kind of work you'll be doing in the role.
+## Challenges
 
 - [Address Book](address-book/README.md)

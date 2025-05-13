@@ -10,9 +10,7 @@ We’re looking for forward-thinking candidates who have a deep understanding of
 
 ---
 
-## Your Next Steps: The Challenges
-
-We’ve designed a challenge to assess your understanding of the FHIR protocol and your ability to implement solutions based on it. These tasks reflect a scaled down version of the kind of work you'll be doing in the role.
+## Challenges
 
 - [FHIR API Client](fhir-api-client/README.md)
 - [FHIR Import and Transform](fhir-import/README.md)

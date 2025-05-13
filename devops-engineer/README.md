@@ -4,3 +4,6 @@
 
 As a **DevOps Engineer** at Oddball, you’ll streamline deployment processes, improve system reliability, and champion automation across our infrastructure. You’ll work closely with engineering teams to ensure secure, resilient, and compliant cloud environments that help federal agencies deliver better digital services.
 
+## Challenges
+
+...

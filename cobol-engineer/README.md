@@ -8,9 +8,7 @@ We are looking for great teammates who are not only technically adept but also e
 
 ---
 
-## Your Next Steps: The Challenges
-
-We’ve designed two challenges for you that will give us a deeper insight into your mainframe development capabilities and problem-solving skills. These tasks are designed to reflect the type of work you will encounter in the role and to help you showcase your strengths.
+## Challenges
 
 - [COBOL Challenge](cobol-challenge/README.md)
 - [JCL Challenge](jcl-challenge/README.md)
