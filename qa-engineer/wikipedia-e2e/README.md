@@ -1,4 +1,4 @@
-## Wikipedia End-to-End Automated Test
+# Wikipedia End-to-End Tests
 
 **Description:**
 
