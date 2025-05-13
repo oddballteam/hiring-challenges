@@ -20,29 +20,22 @@ You are tasked with writing automated tests for the **search functionality** on 
       - Puppeteer
     - Clearly state the framework you have chosen in your README.
 
-2.  **Define Test Scenarios:**
+2.  **Test Scenarios:**
 
-    - Implement the following test scenario:
+    - Search for term from homepage:
 
-      - **Search for Term:**
+      - Open the Wikipedia homepage (www.wikipedia.org).
+      - Enter a search term (e.g., "Software testing") in the search input field.
+      - Submit the search query (e.g., by pressing Enter or clicking the search button).
+      - Validate that the search results page loads successfully. This could involve checking for a specific element on the results page, such as the presence of search result entries or a heading.
+      - Click the first link in the search results.
+      - Validate that the page for the term you searched for loads successfully. This could involve checking the page title or a key element on that page.
 
-        - Open the Wikipedia homepage (www.wikipedia.org).
-        - Enter a search term (e.g., "Software testing") in the search input field.
-        - Submit the search query (e.g., by pressing Enter or clicking the search button).
-        - Validate that the search results page loads successfully. This could involve checking for a specific element on the results page, such as the presence of search result entries or a heading.
-        - Click the first link in the search results.
-        - Validate that the page for the term you searched for loads successfully. This could involve checking the page title or a key element on that page.
-
-    - Implement **at least two** additional test scenarios. These scenarios should cover other aspects of the Wikipedia search functionality or related elements on the homepage, and demonstrate your ability to handle various UI elements and interactions. Here are a couple of examples:
+    - Implement **at least two** additional test scenarios. These scenarios should cover other aspects of the Wikipedia search functionality or other features. This should demonstrate your ability to handle various UI elements and interactions. Here are some ideas:
 
       - **Check for search suggestions:** Verify that search suggestions appear as the user types in the search box.
       - **Test different search terms:** Use a search term that should yield no results.
-
-    - For each scenario, provide the following in your code and/or README:
-
-      - A clear description of the test case.
-      - The steps involved in the test.
-      - The expected outcome.
+      - **Navigate languages:** Use the language links to navigate to the language specific homepages.
 
 3.  **Code Implementation:**
 
@@ -56,19 +49,6 @@ You are tasked with writing automated tests for the **search functionality** on 
 
     - Include instructions in your README on how to set up and run your tests.
     - If your chosen framework provides test reporting features, demonstrate how to generate and interpret the test results.
-
-5.  **Flakiness Considerations:**
-
-    - In your README, discuss the strategies you have employed to minimize test flakiness. This is a critical aspect of test automation. Explain your approach to:
-      - Selecting robust locators.
-      - Handling asynchronous operations.
-      - Managing test data.
-      - Any other techniques you used to ensure test stability.
-
-**Deliverables:**
-
-- A README file with a description, which automation framework you chose, and instructions on how to set up and run the tests.
-- All the code for your automated tests.
 
 ---
 
