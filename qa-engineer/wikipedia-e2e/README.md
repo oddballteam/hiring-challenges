@@ -24,7 +24,7 @@ You are tasked with writing automated tests for the **search functionality** on 
 
     - Implement the following test scenario:
 
-      1.  **Homepage Search:**
+      1.  **Search for Term:**
 
           - Open the Wikipedia homepage (www.wikipedia.org).
           - Enter a search term (e.g., "Software testing") in the search input field.
