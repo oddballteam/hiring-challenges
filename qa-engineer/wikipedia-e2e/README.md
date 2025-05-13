@@ -1,6 +1,6 @@
 # Wikipedia End-to-End Tests
 
-**Description:**
+## Description
 
 You are tasked with writing automated tests for the **search functionality** on the **Wikipedia** website's main page (www.wikipedia.org). This assessment aims to evaluate your ability to:
 
@@ -9,7 +9,7 @@ You are tasked with writing automated tests for the **search functionality** on 
 - Identify and handle various web elements.
 - Apply best practices for test design, including minimizing flakiness.
 
-**Instructions:**
+## Instructions
 
 1.  **Select a Test Automation Framework:**
 
@@ -48,7 +48,7 @@ You are tasked with writing automated tests for the **search functionality** on 
 
     - Write the automated tests using your chosen framework.
     - Focus on writing clean, well-structured, and maintainable code.
-    - Use appropriate selectors to locate web elements. Prioritize robust selectors (e.g., using a combination of attributes, avoiding fragile CSS selectors) to minimize test flakiness.
+    - Use appropriate selectors to locate web elements, minimizing flakiness and fragility.
     - Implement proper waiting mechanisms to handle asynchronous operations and dynamic content.
     - Include comments in your code to explain the purpose of each test and the logic behind your implementation.
 
