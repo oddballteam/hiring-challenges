@@ -24,14 +24,14 @@ You are tasked with writing automated tests for the **search functionality** on 
 
     - Implement the following test scenario:
 
-      1.  **Search for Term:**
+      - **Search for Term:**
 
-          - Open the Wikipedia homepage (www.wikipedia.org).
-          - Enter a search term (e.g., "Software testing") in the search input field.
-          - Submit the search query (e.g., by pressing Enter or clicking the search button).
-          - Validate that the search results page loads successfully. This could involve checking for a specific element on the results page, such as the presence of search result entries or a heading.
-          - Click the first link in the search results.
-          - Validate that the page for the term you searched for loads successfully. This could involve checking the page title or a key element on that page.
+        - Open the Wikipedia homepage (www.wikipedia.org).
+        - Enter a search term (e.g., "Software testing") in the search input field.
+        - Submit the search query (e.g., by pressing Enter or clicking the search button).
+        - Validate that the search results page loads successfully. This could involve checking for a specific element on the results page, such as the presence of search result entries or a heading.
+        - Click the first link in the search results.
+        - Validate that the page for the term you searched for loads successfully. This could involve checking the page title or a key element on that page.
 
     - Implement **at least two** additional test scenarios. These scenarios should cover other aspects of the Wikipedia search functionality or related elements on the homepage, and demonstrate your ability to handle various UI elements and interactions. Here are a couple of examples:
 
