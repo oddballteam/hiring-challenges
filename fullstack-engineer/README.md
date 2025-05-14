@@ -9,4 +9,3 @@ As a **Full Stack Engineer** at Oddball, you'll build and maintain scalable, use
 ## Challenges
 
 - [**Friends of Friends**](friends-of-friends/README.md)
-- [**Moods and Stress**](moods-and-stress/README.md)

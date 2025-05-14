@@ -9,3 +9,4 @@ As a **Backend Engineer** at Oddball, you'll architect and build robust, scalabl
 ## Challenges
 
 - [Address Book](address-book/README.md)
+- [Moods and Stress](moods-and-stress/README.md)
