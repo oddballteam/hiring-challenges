@@ -7,3 +7,4 @@ As a **QA Engineer** at Oddball, you'll ensure the reliability, security, and pe
 ## Challenges
 
 - [**Wikipedia E2E Automation**](wikipedia-e2e/README.md)
+- [**JSONPlaceholder E2E Tests**](jsonplaceholder/README.md)
