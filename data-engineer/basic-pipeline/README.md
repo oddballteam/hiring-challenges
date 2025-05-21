@@ -10,23 +10,27 @@ You may use whatever language, framework, and dependencies that you choose. Most
 
 You are provided with three datasets:
 
-1. **Transactions Dataset:** Contains details of transactions made by customers.  
+1. **Transactions Dataset:** Contains details of transactions made by customers.
+
    - File: [transactions.csv](transactions.csv)
 
-2. **Customers Dataset:** Contains information about the customers involved in transactions.  
+2. **Customers Dataset:** Contains information about the customers involved in transactions.
+
    - File: [customers.csv](customers.csv)
 
-3. **Products Dataset:** Contains details about the products involved in transactions.  
+3. **Products Dataset:** Contains details about the products involved in transactions.
    - File: [products.csv](products.csv)
 
 ---
 
 ## Requirements
 
-1. **Ingestion:**  
+1. **Ingestion:**
+
    - Read the datasets into your project from the provided CSV files.
 
-2. **Data Cleaning:**  
+2. **Data Cleaning:**
+
    - Ensure all columns have consistent data types.
    - Convert any "dirty" data into more native database types such as float, booleans, date, datetime, etc.
    - Handle missing or null values appropriately.
@@ -47,12 +51,13 @@ You are provided with three datasets:
    - **Daily Transactions:** Calculate:
      - Total transactions and revenue for each day.
 
-4. **User Interface:**  
+4. **User Interface:**
+
    - Implement a command-line interface (CLI) to run the pipeline.
    - Allow the user to specify the output format (CSV, Parquet, or JSON).
    - Save the outputs into separate files for each aggregated view.
 
-5. **Documentation:**  
+5. **Documentation:**
    - Write a `README` explaining:
      - Any requirements to set up the environment for the demo.
      - How to use the CLI, with example commands.
@@ -63,4 +68,4 @@ You are provided with three datasets:
 
 ## Preparing for the Interview
 
-**[Next Steps...](../../next-steps.md)**
+**[Next Steps...](../../next-steps-real-time.md)**

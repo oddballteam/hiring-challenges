@@ -25,5 +25,4 @@ Whiteboarding tools:
 
 ## Preparing for the Interview
 
-**[Next Steps...](../../next-steps.md)**
-
+**[Next Steps...](../../next-steps-real-time.md)**

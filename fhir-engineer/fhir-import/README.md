@@ -27,6 +27,7 @@ Your task is to perform the following:
 1. **Parse the CSV Data**: Write a function to read and parse the CSV files containing the patient, encounter, and observation data.
 
 2. **Create FHIR Patient Resources**: For each row in the **patients.csv**, create a FHIR-compliant **Patient** resource with the following attributes:
+
    - **Patient ID** (from CSV)
    - **Name** (from CSV: First Name + Last Name)
    - **Gender** (from CSV)
@@ -34,11 +35,13 @@ Your task is to perform the following:
    - **Address** (from CSV)
 
 3. **Create FHIR Encounter Resources**: For each row in the **encounters.csv**, create an **Encounter** resource for the patient, including:
+
    - **Patient Reference**: Reference the appropriate **Patient** resource.
    - **Visit Date** (from CSV)
    - **Encounter Type** (e.g., "Outpatient", "Routine Checkup", based on the encounter data)
 
 4. **Create FHIR Observation Resources**: For each row in the **observations.csv**, create an **Observation** resource for the observation data, including:
+
    - **Patient Reference**: Reference the appropriate **Patient** resource.
    - **Encounter Reference**: Reference the appropriate **Encounter** resource.
    - **Code**: The type of observation (e.g., "Blood Pressure").
@@ -56,9 +59,9 @@ You will be provided with the following CSV files:
 1. **[patients.csv](patients.csv)**:
    This file contains the patient data. Below is the structure of the CSV:
 2. **[encounters.csv](encounters.csv)**:
-This file contains encounter data related to the patients. Below is the structure of the CSV:
+   This file contains encounter data related to the patients. Below is the structure of the CSV:
 3. **[observations.csv](observations.csv)**:
-This file contains observation data for the patients. Below is the structure of the CSV:
+   This file contains observation data for the patients. Below is the structure of the CSV:
 
 ### Instructions
 
@@ -103,4 +106,4 @@ This file contains observation data for the patients. Below is the structure of 
 
 ## Preparing for the Interview
 
-**[Next Steps...](../../next-steps.md)**
+**[Next Steps...](../../next-steps-real-time.md)**

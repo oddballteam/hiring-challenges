@@ -39,14 +39,14 @@ They can not sign up or change plans directly on our site. However, we link them
 
 ## Database Structure
 
-| Table Name | Columns |
-| ----------- | ----------- |
-| beneficiary | beneficiary_id, fname, lname, sex, ssn, birthdate, address, city, state, zip_code |
-| beneficiary_to_plan | beneficiary_id, plan_id, start_date, end_date |
-| plan | plan_id, plan_name, insurer_name, status, description, avg_monthly_cost, avg_copay_amount, annual_deductible, min_age, max_age |
-| plan_feature | plan_id, feature_key, feature_value |
-| plan_to_zip | plan_id, zip_code |
-| user | username, password, email, beneficiary_id |
+| Table Name          | Columns                                                                                                                        |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| beneficiary         | beneficiary_id, fname, lname, sex, ssn, birthdate, address, city, state, zip_code                                              |
+| beneficiary_to_plan | beneficiary_id, plan_id, start_date, end_date                                                                                  |
+| plan                | plan_id, plan_name, insurer_name, status, description, avg_monthly_cost, avg_copay_amount, annual_deductible, min_age, max_age |
+| plan_feature        | plan_id, feature_key, feature_value                                                                                            |
+| plan_to_zip         | plan_id, zip_code                                                                                                              |
+| user                | username, password, email, beneficiary_id                                                                                      |
 
 ## Resource Links
 
@@ -56,4 +56,4 @@ They can not sign up or change plans directly on our site. However, we link them
 
 ## Preparing for the Interview
 
-**[Next Steps...](../../next-steps.md)**
+**[Next Steps...](../../next-steps-real-time.md)**

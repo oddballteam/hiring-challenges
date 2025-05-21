@@ -75,4 +75,4 @@ Candidates will be assessed on their ability to integrate with an API, manage lo
 
 By completing this challenge, you will demonstrate your technical ability to work with external APIs, build a responsive and user-friendly frontend, and manage local storage in a real-world scenario. We look forward to seeing your implementation!
 
-**[Next Steps...](../../next-steps.md)**
+**[Next Steps...](../../next-steps-real-time.md)**

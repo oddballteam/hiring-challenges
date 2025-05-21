@@ -23,7 +23,7 @@ The challenge will be assessed based on:
 - **Keyword search**: Users should be able to search by keyword (e.g., artist name, song title, album name).
 - **Filter by category**: The search should allow filtering by type, such as **music**, **albums**, **songs**, etc., while excluding **podcasts**, **movies**, etc.
 - **Explicit filter**: Users should be able to specify if they want to allow or exclude explicit content in the search results.
-  
+
 ### 2. **UI/UX Design**
 
 - **Responsive Design**: The UI must be mobile-friendly. It should adjust smoothly to different screen sizes and orientations.
@@ -33,11 +33,8 @@ The challenge will be assessed based on:
   - Thumbnail image (album artwork or artist image)
   - Preview (optional: audio preview link or video preview if available)
   - Explicit content label (if explicit content is present in the result)
-  
 - **Pagination**: Ensure pagination is in place if the results exceed the maximum number of items per page.
-  
 - **Search input**: Create an intuitive and clean search bar where users can type in their search queries. It should support suggestions or auto-complete (optional).
-  
 - **Optional Features**:
   - Play a preview audio or video snippet from the search results.
   - Implement search suggestions as the user types (optional but encouraged).
@@ -57,7 +54,7 @@ The challenge will be assessed based on:
 - **Accessibility**: Implement basic accessibility features (e.g., keyboard navigation, ARIA labels).
 - **Advanced Search Options**: Implement additional filters like genre, release date, or country.
 - **State Management**: Use a state management solution (e.g., Redux or Context API in React) to manage application state effectively, especially as the app grows.
-  
+
 ---
 
 ## Evaluation Criteria
@@ -73,12 +70,12 @@ The challenge will be assessed based on:
 - Is the interface user-friendly and easy to navigate?
 - Is the design visually appealing?
 - How well does it respond to different screen sizes (e.g., mobile, tablet, desktop)?
-  
+
 ### Functionality
 
 - Does the app meet all the core requirements (search by keyword, filtering, pagination, etc.)?
 - Does the application handle errors gracefully?
-  
+
 ### Creativity
 
 - How unique or interesting is the approach to the user interface and functionality?
@@ -88,4 +85,4 @@ The challenge will be assessed based on:
 
 ## Preparing for the Interview
 
-**[Next Steps...](../../next-steps.md)**
+**[Next Steps...](../../next-steps-real-time.md)**

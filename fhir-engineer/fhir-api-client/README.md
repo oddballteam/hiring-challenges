@@ -46,6 +46,7 @@ You need to implement the following tasks using the FHIR API:
 ## Expected Deliverables
 
 1. **Code Repository**:
+
    - Provide a link to your solution in a public GitHub repository.
    - Include a README file explaining how to run your solution and any dependencies you used.
 
@@ -81,4 +82,4 @@ You need to implement the following tasks using the FHIR API:
 
 ## Preparing for the Interview
 
-**[Next Steps...](../../next-steps.md)**
+**[Next Steps...](../../next-steps-real-time.md)**

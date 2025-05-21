@@ -70,8 +70,8 @@ Using the generated `support_report`, answer the following:
 1. **What were the total number of interactions handled by each contact center in Q1 2025?**
 2. **Which month (Jan, Feb, or Mar) had the highest total interaction volume?**
 3. **Which contact center had the longest average phone call duration (`total_call_duration`)?**
-    - Why might this be the case based on the interactions data?
-    - What approach would you recommend to measure agent work time more accurately?
+   - Why might this be the case based on the interactions data?
+   - What approach would you recommend to measure agent work time more accurately?
 
 > **For each question above, include code in your repository that demonstrates how you derived your answer using the files you generated from the data integration and output report steps.**
 
@@ -108,6 +108,6 @@ python pipeline.py
 
 ## Preparing for the Interview
 
-**[Next Steps...](../../next-steps.md)** - _For candidates_
+**[Next Steps...](../../next-steps-real-time.md)** - _For candidates_
 
 [Internal Notes](https://drive.google.com/drive/folders/1CpN3WScbUuBpDPKzTv13U-V4OYquszrL?usp=drive_link) - _For reviewers_

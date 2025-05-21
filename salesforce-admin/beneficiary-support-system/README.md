@@ -64,4 +64,4 @@ Design a Salesforce solution that addresses the desired improvements to the bene
 
 ## Preparing for the Interview
 
-**[Next Steps...](../../next-steps.md)**
+**[Next Steps...](../../next-steps-real-time.md)**

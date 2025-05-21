@@ -8,7 +8,7 @@ As a health care provider, we are concerned with the moods and stress levels of 
 
 ### Users
 
-The [users.csv](users.csv) file contains a list of users with `user_name` and `full_name` fields. 
+The [users.csv](users.csv) file contains a list of users with `user_name` and `full_name` fields.
 
 ### Moods
 
@@ -31,4 +31,4 @@ A "bad day" is defined as a user's mood being in the 1-2 range or where their mo
 
 ## Preparing for the Interview
 
-**[Next Steps...](../../next-steps.md)**
+**[Next Steps...](../../next-steps-real-time.md)**

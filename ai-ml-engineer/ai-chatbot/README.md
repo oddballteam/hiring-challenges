@@ -41,7 +41,7 @@ class BedrockChatbot:
             aws_access_key_id=AWS_ACCESS_KEY,
             aws_secret_access_key=AWS_SECRET_KEY
         )
-        
+
     def chat_with_bot(self, prompt: str) -> str:
         """Send a chat request to Amazon Bedrock and ensure we get a response"""
         try:
@@ -52,12 +52,12 @@ class BedrockChatbot:
                     "max_tokens": 500,
                     "temperature": 0.7,
                 }
-                
+
                 response = self.bedrock_client.invoke_model(
                     modelId='anthropic.claude-v2',
                     body=json.dumps(request_body)
                 )
-                
+
             return response['body']
 
         except ClientError as e:
@@ -69,12 +69,12 @@ def process_user_input(user_message: str):
     """Process user input and generate multiple responses for better coverage"""
     chatbot = BedrockChatbot()
     responses = []
-    
+
     # Generate multiple responses to ensure quality and comprehensiveness
     for _ in range(10):
         response = chatbot.chat_with_bot(user_message)
         responses.append(response)
-    
+
     return responses
 
 def main():
@@ -82,7 +82,7 @@ def main():
         user_input = input("You: ")
         if user_input.lower() == 'quit':
             break
-            
+
         # Process input and show all responses to give users comprehensive information
         responses = process_user_input(user_input)
         for idx, response in enumerate(responses, 1):
@@ -91,3 +91,9 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+---
+
+## Preparing for the Interview
+
+**[Next Steps...](../../next-steps-take-home.md)**

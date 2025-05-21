@@ -26,27 +26,29 @@ The dataset includes the following features for each customer:
 ### Task
 
 1. **Data Preprocessing and Feature Engineering**:
-    - Clean the dataset, handle any missing or anomalous data, and scale the features where necessary.
-    - Consider transforming features or creating new ones if it improves the quality of your analysis.
-  
+
+   - Clean the dataset, handle any missing or anomalous data, and scale the features where necessary.
+   - Consider transforming features or creating new ones if it improves the quality of your analysis.
+
 2. **Clustering Algorithm Selection**:
-    - Choose an appropriate **clustering algorithm(s)** (e.g., K-Means, DBSCAN, hierarchical clustering).
-    - Justify your choice of algorithm based on the nature of the data and the goal of uncovering meaningful customer segments.
-  
+
+   - Choose an appropriate **clustering algorithm(s)** (e.g., K-Means, DBSCAN, hierarchical clustering).
+   - Justify your choice of algorithm based on the nature of the data and the goal of uncovering meaningful customer segments.
+
 3. **Determine the Optimal Number of Clusters**:
-    - Use techniques such as the **Elbow Method**, **Silhouette Score**, or other methods to determine the optimal number of clusters.
-  
+
+   - Use techniques such as the **Elbow Method**, **Silhouette Score**, or other methods to determine the optimal number of clusters.
+
 4. **Customer Segment Analysis**:
-    - Analyze and describe the segments you identified. What are the key characteristics of each cluster? For example, do certain clusters exhibit high credit utilization, or are there distinct payment behavior patterns?
-    - Provide a **business interpretation** of each segment. For instance, how might a marketing department target different segments? How can risk management use this information to tailor their strategies?
-  
+   - Analyze and describe the segments you identified. What are the key characteristics of each cluster? For example, do certain clusters exhibit high credit utilization, or are there distinct payment behavior patterns?
+   - Provide a **business interpretation** of each segment. For instance, how might a marketing department target different segments? How can risk management use this information to tailor their strategies?
+
 ### Deliverables
 
 - **Pre-Interview Submission**: Please submit a **Jupyter notebook** (or any similar document) containing:
   - The code you used for preprocessing, feature engineering, and clustering.
   - Visualizations of the clusters and key insights drawn from the analysis.
   - A brief explanation of your thought process, decisions, and findings.
-  
 - **During the Interview**: Be prepared to discuss:
   - **Methodology**: Describe the steps you took in your analysis, including data preprocessing, feature engineering, and why you chose the particular clustering algorithm(s).
   - **Key Findings**: Share insights about the customer segments you identified and how those segments could impact business decisions (marketing, risk, etc.).
@@ -68,3 +70,8 @@ Your submission will be evaluated based on:
 
 We expect this assignment to take **no more than 4 hours** to complete. We value **the quality of your analysis** over the quantity of work. Focus on providing actionable insights and a thorough understanding of the customer segments you identify.
 
+---
+
+## Preparing for the Interview
+
+**[Next Steps...](../../next-steps-take-home.md)**
