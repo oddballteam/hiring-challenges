@@ -6,4 +6,5 @@ As a **Mobile Engineer** at Oddball, you'll build secure, accessible, and high-p
 
 ## Challenges
 
-...
+- [**Library List**](library-list/README.md)
+- [**User Mapping**](user-mapping/README.md)
