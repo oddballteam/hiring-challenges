@@ -1,6 +1,6 @@
 ![Oddball](https://oddball.io/wp-content/uploads/2024/01/Oddball-Logo-High-Res.png)
 
-# Hiring Challenges
+# Recruiting Challenges
 
 Congratulations on progressing to the skill assessment stage of our hiring process! We are excited to get to know you better and potentially welcome you to our team at Oddball.
 
@@ -12,7 +12,7 @@ We’re excited to see how you tackle these challenges. This is your chance to s
 
 Your recruiter should have already informed you which challenge you have been assigned. We look forward to exploring your work and getting to know you better.
 
-*The Oddball Team*
+_The Oddball Team_
 
 ## Navigate challenges by role
 
@@ -51,4 +51,3 @@ Your recruiter should have already informed you which challenge you have been as
 - [**System Architect**](system-architect/README.md) (2)
   - [Data Pipeline Design](system-architect/data-pipeline-design/README.md)
   - [Whatever.gov](system-architect/whatever.gov/README.md)
-
