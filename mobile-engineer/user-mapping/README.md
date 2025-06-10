@@ -1,4 +1,3 @@
-
 # User Mapping
 
 ## Overview

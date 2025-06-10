@@ -5,11 +5,12 @@
 This repository contains technical challenges used in Oddball's hiring process. These challenges are designed to assess candidates' skills during the third step of our hiring process. The challenges primarily consist of markdown files that provide instructions, context, and requirements for candidates.
 
 ## Project Structure
-
-- Each role has its own directory (e.g., `frontend-engineer`, `mobile-engineer`, etc.)
+- The repository uses a two-level folder hierarchy:
+  - **First level:** Each role has its own directory (e.g., `frontend-engineer`, `mobile-engineer`, etc.)
+  - **Second level:** Each challenge for that role is a subdirectory within the role folder (e.g., `frontend-engineer/itunes-search`, `mobile-engineer/library-list`).
 - Within each role directory:
   - A main `README.md` serves as an index to the challenges
-  - Challenge subdirectories contain their own `README.md` with specific instructions
+  - Each challenge subdirectory contains its own `README.md` with specific instructions
   - Additional resource files may be included when necessary for completing challenges
 
 ## Guidelines
@@ -31,6 +32,14 @@ This repository contains technical challenges used in Oddball's hiring process. 
 ### Formatting
 
 We use standard markdown formatting conventions to ensure clarity, consistency, and a professional appearance across all challenges and documentation. Please follow these guidelines:
+
+- Every challenge README should begin with a title and include the following standard section headings:
+  - `## Overview`
+  - `## Requirements`
+  - Additional sections as needed (e.g., `## Bonus (Optional)`, `## Evaluation Criteria`)
+- Use one blank line between sections for readability.
+- Use tables for structured data or comparisons whenever appropriate.
+- Always use language labels in code blocks (e.g., ```python, ```bash) for syntax highlighting.
 
 - Use headings (`#`, `##`, `###`) to organize content
 - Use bullet points (`-`, `*`) for lists and requirements
