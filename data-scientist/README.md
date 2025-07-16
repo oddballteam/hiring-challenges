@@ -6,6 +6,4 @@ As a **Data Scientist** at Oddball, you’ll uncover insights from complex datas
 
 ## Challenges
 
-- [**Basic Pipeline**](basic-pipeline/README.md)
-- [**Customer Support Report**](customer-support-report/README.md)
-
+- [**Exploratory Statistics**](exploratory-statistics/README.md)
